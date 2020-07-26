@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Elmar",
+            "surname": "Ibrahimli",
+            "department": "IT",
+            "fatherName": "Nariman"
+        },
+        {
+            "id": 2,
+            "name": "Tuncay",
+            "surname": "Abilsoylu",
+            "department": "IT",
+            "fatherName": "Niyazi"
+        },
+        {
+            "id": 3,
+            "name": "Kamran",
+            "surname": "Orucov",
+            "department": "IT",
+            "fatherName": "Samad"
+        },
+        {
+            "id": 4,
+            "name": "Lale",
+            "surname": "Hasanli",
+            "department": "IT"
+        }
+    ]
+}
